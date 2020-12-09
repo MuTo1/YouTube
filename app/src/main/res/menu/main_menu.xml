@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/home"
+        android:id="@+id/Navigation_home"
+        android:title="Home"/>
+    <item
+        android:icon="@drawable/tranding"
+        android:id="@+id/Navigation_tranding"
+        android:title="Tranding"/>
+    <item
+        android:icon="@drawable/notifications"
+        android:id="@+id/Navigation_notifications"
+        android:title="Notifications"/>
+    <item
+        android:icon="@drawable/library"
+        android:id="@+id/Navigation_library"
+        android:title="Library"/>
+
+
+</menu>
